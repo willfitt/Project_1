@@ -1,0 +1,11 @@
+html{
+    height: 100%;
+}
+
+.imagebox{
+    background-image: url("/media/burger-hero.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

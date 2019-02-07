@@ -7,7 +7,7 @@ body {
     padding: 0;
     margin: 0;
     width: 100%;
-    height: 90%;
+    height: 100%;
     font-family: 'Noto Serif', serif;
     background: linear-gradient(to right, #a73737, #7a2828); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
@@ -34,12 +34,8 @@ header{
 }
 
 .burgerimage{
-    margin: 20px;
-    max-width: 700px;
-}
-
-.img-fluid{
-    align-items: center;
+    /*margin: 20px;*/
+    padding: 20px;
 }
 
 .contenttext{
@@ -53,3 +49,4 @@ footer{
     padding-top: 30px;
 
 }
+

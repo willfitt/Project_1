@@ -50,3 +50,7 @@ footer{
 
 }
 
+.bottomfooter{
+    display: flex;
+    justify-content: space-between;
+}

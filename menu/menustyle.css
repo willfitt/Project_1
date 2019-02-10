@@ -37,3 +37,8 @@ p{
 .cost{
     font-weight: normal;
 }
+
+.card{
+    border: none;
+    background-color: aliceblue;
+}
